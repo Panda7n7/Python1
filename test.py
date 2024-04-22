@@ -6,5 +6,6 @@ pf.print_models(unprinted_model, completed_model)
 pf.show_completed_models(unprinted_model)
 pf.show_completed_models(completed_model)
 pf.show_completed_models(completed_model)
+ingredient_list = ["iphone case", "robot"]
 print("third test")
 print("hot-fix")
